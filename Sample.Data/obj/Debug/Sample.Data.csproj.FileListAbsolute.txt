@@ -1,0 +1,14 @@
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\Sample.Data.dll.config
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\Sample.Data.dll
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\Sample.Data.pdb
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\EntityFramework.dll
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\EntityFramework.SqlServer.dll
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\Sample.Model.dll
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\Sample.Model.pdb
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\EntityFramework.xml
+A:\Learning\abidi\Sample\Sample.Data\bin\Debug\EntityFramework.SqlServer.xml
+A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.csprojAssemblyReference.cache
+A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.csproj.CoreCompileInputs.cache
+A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.csproj.CopyComplete
+A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.dll
+A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.pdb

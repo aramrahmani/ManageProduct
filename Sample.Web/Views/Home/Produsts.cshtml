@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Sample.Web.ViewModels.UnitViewModel>
+@{
+    ViewBag.Title = "Produsts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="direction:rtl">
+    <div class="row" style="display:block;">
+        <div class="col-md-6"><a class="btn btn-sm btn-dark p-2 mb-3" href="Javascript:void(0)" id="btnAddProduct"><i class="fa fa-plus fa-fw"></i>New Product</a></div>
+        <table id="ProductsDataTable" class="table table-hover" style="width:100%">
+            <thead class="bg-primary">
+                <tr>
+                    <th width="10%">کد کالا</th>
+                    <th width="20%">عنوان کالا</th>
+                    <th width="20%">واحد شمارش</th>
+                    <th width="10%">تعداد</th>
+                    <th width="50%">عمليات</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+<div class="modal fade" style="direction:rtl" id="ModifyProductModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="auction vertical-alignment-helper">
+        <div class="modal-dialog vertical-align-center" style="position:unset">
+            <div class="modal-content">
+                <div class="modal-header alert-warning" id="modal-header">
+                    <h6 class="modal-title" id="ModifyProductModalTitle"><i class="fa fa-inbox"></i></h6>
+                </div>
+                <div class="modal-body">
+                    <div class="col-md-8 col-sm-12  form-group">
+                        <input type="text" id="txtProductName" class="form-control pr-4" placeholder="عنوان محصول را وارد كنيد " autofocus />
+                    </div>
+                    <div class="col-md-8 col-sm-12  form-group">
+                        <select class="form-control" style="padding: 2px 12px;" id="txtUnitId">
+                            <option value="" selected>واحد شمارش</option>
+                            @foreach (var item in Model)
+                            {
+                                <option value="@item.UnitId">@item.UnitName</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-8 col-sm-12  form-group">
+                        <input type="text" class="form-control pr-4" placeholder="مقدار " id="txtCount" autofocus />
+                    </div>
+                </div>
+                <div class="modal-footer" style="display:unset">
+                    <button type="button" class="btn btn-primary" id="btnModifyProduct">ثبت</button>
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">لغو</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" style="direction:rtl" id="MessageBoxWithYesNO" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="auction vertical-alignment-helper">
+        <div class="modal-dialog vertical-align-center" style="position:unset">
+            <div class="modal-content">
+                <div class="modal-header alert-warning" id="modal-header">
+                    <h6 class="modal-title"><i class="fa fa-inbox"></i> پيغام سيستم </h6>
+                </div>
+                <div class="modal-body" style="text-align:center ; margin:0 auto;">
+                    <p id="message-box-text"></p>
+                </div>
+                <div class="modal-footer" style="display:unset">
+                    <button type="button" class="btn btn-primary" id="btnYesAction">بله</button>
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">خير</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@*modal Show Message*@
+<div class="modal fade" id="MessageBox" style="direction:rtl" tabindex="-1" role="dialog" aria-labelledby="myMessageBox" aria-hidden="true">
+    <div class="auction vertical-alignment-helper">
+        <div class="modal-dialog vertical-align-center" style="position:unset">
+            <div class="modal-content">
+                <div class="modal-header" id="message-box-header">
+                    <h4 class="modal-title" id="myMessageBoxLabel"><i class="fa fa-inbox"></i> پيغام سيستم </h4>
+                </div>
+                <div class="modal-body" style="text-align:center ; margin:0 auto;">
+                    <p id="MessageBox-message"></p>
+                </div>
+                <div class="modal-footer" style="display:unset">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">بستن</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

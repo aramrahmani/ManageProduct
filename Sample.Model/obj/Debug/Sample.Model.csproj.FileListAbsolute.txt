@@ -1,0 +1,5 @@
+A:\Learning\abidi\Sample\Sample.Model\bin\Debug\Sample.Model.dll
+A:\Learning\abidi\Sample\Sample.Model\bin\Debug\Sample.Model.pdb
+A:\Learning\abidi\Sample\Sample.Model\obj\Debug\Sample.Model.csproj.CoreCompileInputs.cache
+A:\Learning\abidi\Sample\Sample.Model\obj\Debug\Sample.Model.dll
+A:\Learning\abidi\Sample\Sample.Model\obj\Debug\Sample.Model.pdb
