@@ -12,3 +12,17 @@ A:\Learning\abidi\Sample\Sample.Service\obj\Debug\Sample.Service.csproj.CoreComp
 A:\Learning\abidi\Sample\Sample.Service\obj\Debug\Sample.Service.csproj.CopyComplete
 A:\Learning\abidi\Sample\Sample.Service\obj\Debug\Sample.Service.dll
 A:\Learning\abidi\Sample\Sample.Service\obj\Debug\Sample.Service.pdb
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\Sample.Service.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\Sample.Service.pdb
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\Sample.Data.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\Sample.Model.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\EntityFramework.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\Sample.Data.pdb
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\Sample.Data.dll.config
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\Sample.Model.pdb
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\bin\Debug\EntityFramework.xml
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\obj\Debug\Sample.Service.csprojAssemblyReference.cache
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\obj\Debug\Sample.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\obj\Debug\Sample.Service.csproj.CopyComplete
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\obj\Debug\Sample.Service.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Service\obj\Debug\Sample.Service.pdb

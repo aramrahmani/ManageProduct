@@ -12,3 +12,17 @@ A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.csproj.CoreCompileInp
 A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.csproj.CopyComplete
 A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.dll
 A:\Learning\abidi\Sample\Sample.Data\obj\Debug\Sample.Data.pdb
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\Sample.Data.dll.config
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\Sample.Data.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\Sample.Data.pdb
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\EntityFramework.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\Sample.Model.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\Sample.Model.pdb
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\EntityFramework.xml
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\obj\Debug\Sample.Data.csprojAssemblyReference.cache
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\obj\Debug\Sample.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\obj\Debug\Sample.Data.csproj.CopyComplete
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\obj\Debug\Sample.Data.dll
+C:\Users\Aram\Desktop\MVC\ManageProduct\Sample.Data\obj\Debug\Sample.Data.pdb
