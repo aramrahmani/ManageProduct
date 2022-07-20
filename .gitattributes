@@ -3,3 +3,4 @@
 *.html linguist-detectable=true
 *.xml linguist-detectable=false
 *.css linguist-detectable=false
+*.ASP.NET linguist-detectable=true
