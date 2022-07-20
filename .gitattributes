@@ -1,1 +1,4 @@
-*.* linguist-language=C#
+*.ASP.Net MVC linguist-detectable=true
+*.js linguist-detectable=true
+*.html linguist-detectable=true
+*.C# linguist-detectable=true
